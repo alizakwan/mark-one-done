@@ -1,4 +1,4 @@
-## CLI Quiz App on ELON MUSK, Made with JavaScript.
+## CLI Quiz App on How well do you know me, Made with JavaScript.
 
 It is developed in JavaScript on [https://replit.com/](https://replit.com/@AliZakwan/question-answer#index.js) in Node.js environment.
 
